@@ -128,3 +128,65 @@ tl3.to("#page2b>h1",{
   top:`-25%`
 })
 
+
+var tl4 = gsap.timeline({
+  scrollTrigger:{
+      trigger:`#page4`,
+      start:`top top`,
+      scrub:1,
+      scroller:`#main`,
+      pin:true
+  }
+})
+
+
+tl4.to("#page4>#center-page4",{
+  top:`-25%`
+})
+
+var tl5 = gsap.timeline({
+  scrollTrigger:{
+      trigger:`#page6`,
+      start:`top top`,
+      scrub:1,
+      scroller:`#main`,
+      pin:true
+  }
+})
+
+
+tl5.to("#page6>#center-page6",{
+  top:`-25%`
+})
+
+
+var tl6 = gsap.timeline({
+  scrollTrigger:{
+      trigger:`#page7`,
+      start:`top top`,
+      scrub:1,
+      scroller:`#main`,
+      pin:true
+  }
+})
+
+
+tl6.to("#page7>#center-page7",{
+  top:`-25%`
+})
+
+
+var tl7 = gsap.timeline({
+  scrollTrigger:{
+      trigger:`#page8`,
+      start:`top top`,
+      scrub:1,
+      scroller:`#main`,
+      pin:true
+  }
+})
+
+
+tl7.to("#page8>#center-page8",{
+  top:`-25%`
+})

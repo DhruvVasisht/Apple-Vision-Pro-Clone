@@ -229,4 +229,289 @@ body{
     cursor: pointer;
 }
 
+#page3>button{
+    position: absolute;
+    bottom: 7%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding:20px 30px;
+    border:3px solid #000;
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 50px;
+    font-size: 1.15vw;
+    cursor: pointer;
+   
+}
+
+
+#page4{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #fff;
+}
+
+
+#page4>video{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#center-page4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+    font-size: 2vw;
+}
+
+#page5{
+    display: flex;
+    position: relative;
+    height: 60vh;
+    width: 100vw;
+}
+.left5{
+    position: relative;
+    height: 100%;
+    width: 45%;
+}
+.left5>h1{
+    font-size: 2.3vw;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+}
+.right5{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 55%;
+    padding-left: 4vw;
+}
+.right5>h3{
+    font-size: 1.5vw;
+    width: 60%;
+    color: #484848d7;
+}
+.right5>button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff5a00;
+    color: #fff;
+    font-weight: 380;
+    border-radius: 50px;
+    font-size: 1.3vw;
+    margin-top: 1.5vw;
+    cursor: pointer;
+}
+
+#page6{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page6>video{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#center-page6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+    font-size: 2vw;
+}
+
+#page6a{
+    display: flex;
+    position: relative;
+    height: 60vh;
+    width: 100vw;
+}
+.left6{
+    position: relative;
+    height: 100%;
+    width: 45%;
+}
+.left6>h1{
+    font-size: 2.3vw;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+}
+.right6{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 55%;
+    padding-left: 4vw;
+}
+.right6>h3{
+    font-size: 1.5vw;
+    width: 60%;
+    color: #484848d7;
+}
+.right6>button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff5a00;
+    color: #fff;
+    font-weight: 380;
+    border-radius: 50px;
+    font-size: 1.3vw;
+    margin-top: 1.5vw;
+    cursor: pointer;
+}
+
+#page7{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page7>video{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#center-page7{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+    font-size: 2vw;
+}
+
+
+#page7a{
+    display: flex;
+    position: relative;
+    height: 60vh;
+    width: 100vw;
+}
+.left7{
+    position: relative;
+    height: 100%;
+    width: 45%;
+}
+.left7>h1{
+    font-size: 2.3vw;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+}
+.right7{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 55%;
+    padding-left: 4vw;
+}
+.right7>h3{
+    font-size: 1.5vw;
+    width: 60%;
+    color: #484848d7;
+}
+.right7>button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff5a00;
+    color: #fff;
+    font-weight: 380;
+    border-radius: 50px;
+    font-size: 1.3vw;
+    margin-top: 1.5vw;
+    cursor: pointer;
+}
+
+#page8{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page8>video{
+    height:100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#center-page8{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+    font-size: 2vw;
+}
+
+
+#page8a{
+    display: flex;
+    position: relative;
+    height: 60vh;
+    width: 100vw;
+}
+.left8{
+    position: relative;
+    height: 100%;
+    width: 45%;
+}
+.left8>h1{
+    font-size: 2.3vw;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+}
+.right8{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 55%;
+    padding-left: 4vw;
+}
+.right8>h3{
+    font-size: 1.5vw;
+    width: 50%;
+    color: #484848d7;
+}
+.right8>button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff5a00;
+    color: #fff;
+    font-weight: 380;
+    border-radius: 50px;
+    font-size: 1.3vw;
+    margin-top: 1.5vw;
+    cursor: pointer;
+}
+
+
 
