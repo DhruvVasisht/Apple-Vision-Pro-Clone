@@ -192,6 +192,29 @@ tl7.to("#page8>#center-page8",{
 })
 
 
+var tl8 = gsap.timeline({
+  scrollTrigger:{
+      trigger:`#page20`,
+      start:`top top`,
+      scrub:1,
+      scroller:`#main`,
+      pin:true
+  }
+})
+
+
+tl8.to("#page20>#center-page20",{
+  top:`-25%`
+})
+
+
+
+
+
+
+
+
+
 
 
 
